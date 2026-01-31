@@ -60,4 +60,4 @@ Login → Eligibility → Skills → Resume → Matches → ATS Resume
 - 🔗 **API Integrations**: Connect with government databases and external job portals
 - 📱 **Mobile App**: Native mobile applications for iOS and Android
 
-🏆 **SIH 2025 – Finalist Ready**
+
